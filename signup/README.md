@@ -1,5 +1,11 @@
 # signup
 
+## Install Vue-CLI
+```
+Install Vue-CLI(https://cli.vuejs.org/guide/installation.html)
+npm install -g @vue/cli
+```
+
 ## Project setup
 ```
 npm install
@@ -22,3 +28,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 
+
+### Sign Up
+
+Try sign up using the email id and password provided in https://reqres.in/api/register
+eg: email: eve.holt@reqres.in
