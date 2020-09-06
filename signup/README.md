@@ -5,6 +5,11 @@
 Install Vue-CLI(https://cli.vuejs.org/guide/installation.html)
 npm install -g @vue/cli
 ```
+## Clone Repository
+```
+git clone https://github.com/AJSTINGER98/bobble-signup.git
+```
+
 
 ## Project setup
 ```
