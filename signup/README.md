@@ -41,6 +41,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 Try sign up using the email id and password provided in https://reqres.in/api/register
 eg: email: eve.holt@reqres.in
 
-### Nuisance
+### Nuances
 
 Facebook authentication does not work because vuejs does not allow using facebook sdk using frontend javascript or jquery.
