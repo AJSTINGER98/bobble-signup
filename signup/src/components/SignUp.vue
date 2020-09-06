@@ -71,9 +71,6 @@ export default {
   },
 
   name: 'SignUp',
-  props: {
-    msg: String
-  },
   methods:{
     Submit(){
       if(this.data.password != '' && this.data.email != '' && this.data.firstName != '' && this.data.lastName != ''){
@@ -90,7 +87,7 @@ export default {
           })
           .catch((error)=> {
             console.log(error);
-            alert('Something went wrong');
+            alert('Please use the email id provided in https://reqres.in/api/register');
           })
       }
       else{

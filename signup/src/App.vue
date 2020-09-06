@@ -11,7 +11,7 @@
         <!-- THIS IS THE SIGN UP CONTAINER. SIGNUP COMPONENT IS BEING RENDERED AT THIS LOCATION.
               TO SEE THE ACTUAL CONTENT OF SIGNUP COMPONENT GO TO: /components/SignUp.vue
          -->
-        <SignUp msg=""/>
+        <SignUp/>
       </div>
     </div>
   </div>
@@ -22,8 +22,6 @@ import SignUp from './components/SignUp.vue'
 
 
 export default {
-  data(){
-  },
   name: 'App',
   // importing SignUp.vue as a component to be rendered above in html
   components: {
