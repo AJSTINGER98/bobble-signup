@@ -143,7 +143,6 @@ export default {
     background: none;
     border: none;
     min-width: 50px;
-    /* max-height: 50px; */
     box-shadow: 0px 1px 1px 1px #ccc;
     padding: 5px 30px;
     font-size: 10px;
